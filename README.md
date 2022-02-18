@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @larsspoelman
+- 👀 I’m interested in VUE 3 / VUEX / Typescript / design systems / Process optimization 
+- 🌱 I’m currently working at Datanext group NL
